@@ -1,5 +1,5 @@
 # Hi, I'm Juan Joy Paul! 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanpaul750)](https://github.com/anuraghazra/github-readme-stats)
 Welcome to my GitHub profile!
 
 I'm a Data Scientist with a passion for machine learning, neural networks, and data analysis. I enjoy solving complex problems and creating impactful solutions that drive data-driven decisions.
