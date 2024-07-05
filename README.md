@@ -13,7 +13,7 @@ I'm a Data Scientist with a passion for machine learning, neural networks, and d
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](#)
+- [LinkedIn](#https://www.linkedin.com/in/juan-joy-paul/)
 - [GitHub](#)
 
 Feel free to explore my repositories and connect with me. Let's collaborate and make data-driven decisions together!
