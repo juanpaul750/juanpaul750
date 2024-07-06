@@ -7,7 +7,7 @@ I'm a Data Scientist with a passion for machine learning, neural networks, and d
 ## 🛠️ Skills and Tools
 
 - **Languages**: Python, R, C++
-- **Tools**: JAGS, Snowflake, Kubeflow, Docker, Git, SQL Data Tools, Power BI, Tableau
+- **Tools**: Snowflake, Kubeflow, Docker, Git, SQL Data Tools, Power BI, Tableau
 - **Cloud Platforms**: AWS, Azure
 - **Specialisations**: Machine Learning, Neural Networks, Data Analysis, Forecasting, Optimisation
 
